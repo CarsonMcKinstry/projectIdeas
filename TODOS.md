@@ -1,0 +1,3 @@
+-   [ ] Automatic GraphQL interface for IndexedDB
+-   [ ] RxJS based PostGres access layer
+-   [ ] RxJS based server framework?

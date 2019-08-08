@@ -1,3 +1,6 @@
 -   [ ] Automatic GraphQL interface for IndexedDB
--   [ ] RxJS based PostGres access layer
+    -   [GraphedDB](./project-descriptions/GraphedDB.md)
+-   [ ] RxJS based PostgreSQL access layer
+    -   [rx-pg]('./project-descriptions/RxPg.md)
 -   [ ] RxJS based server framework?
+    -   [rXpress]('./project-descriptions/rXpress.md)
